@@ -1,4 +1,13 @@
+# Team Name : Gradient Geeks:
+# Deploymnet details of the solutions proposed:
 
+1. IPL Dataset: https://creativeag-ipl-dataverse.streamlit.app/
+2. Research Article Summarisation: https://paper-summarizer-gradientgeeks25.streamlit.app/
+
+# Detailed Github Repository link of the Problem Statements:
+1. IPL Dataset: https://github.com/Anurag-ghosh-12/ipl
+2.  Research Article Summarization : https://github.com/Suchana4Hazra/Research_Paper_Summarizer
+   
 # BrainDead 🧠 2K25:
 
 ![BrainDead Logo](https://github.com/user-attachments/assets/db36aa27-72f8-4fd6-9de6-18f1c4b4c8f6)
